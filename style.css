@@ -50,6 +50,10 @@ li a:hover{
 .single-post{
     width: 300px;
     height: 350px;
+    border: 1px solid red;
+}
+.button-post{
+    float: right;
 }
 
 @media (max-width: 768px){

@@ -24,7 +24,7 @@ const renderPost = data => {
       <p>${post.body}</p>
       <p>User id: ${post.userId}</p>
     </div>
-    <div>
+    <div class="button-post">
       <button>Edit</button>
       <button>Delete</button>
     </div></div>`
